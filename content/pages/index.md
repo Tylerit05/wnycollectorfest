@@ -9,8 +9,8 @@ sections:
       color: text-dark
     subtitle: DATE TO BE DETERMINED
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      If you at all interested please Email me at (EMAIL) and I will get back to
+      you as soon as possible.
     actions: []
     media:
       type: ImageBlock
