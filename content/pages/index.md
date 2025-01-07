@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Show Coming Soon
-      color: text-dark
+      color: text-light
     subtitle: DATE TO BE DETERMINED
     text: >
       If you at all interested please Email me at (EMAIL) and I will get back to
