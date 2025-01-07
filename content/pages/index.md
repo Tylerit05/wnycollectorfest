@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Show Coming Soon
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: DATE TO BE DETERMINED
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
