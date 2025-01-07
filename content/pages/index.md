@@ -19,7 +19,7 @@ sections:
     badge:
       type: Badge
       label: Western New york collectors fest
-      color: text-dark
+      color: text-neutral
     colors: bg-dark-fg-light
     styles:
       self:
