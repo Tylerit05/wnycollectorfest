@@ -15,6 +15,7 @@ sections:
     media:
       type: ImageBlock
       altText: Fun feature preview
+      url: /images/avatar1.svg
     badge:
       type: Badge
       label: Western New york collectors fest
